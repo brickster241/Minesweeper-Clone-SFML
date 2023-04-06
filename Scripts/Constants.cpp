@@ -19,14 +19,14 @@
 #define FLAG_BUTTON_POSY 300
 #define UI_BUTTON_WIDTH 300
 #define UI_BUTTON_HEIGHT 100
-#define TILE_FONT_PATH "Fonts\\Antonio-Regular.ttf"
-#define FLAG_SPRITE_PATH "Sprites\\flag.png"
-#define MINE_SPRITE_PATH "Sprites\\mine.png"
+#define TILE_FONT_PATH "Assets\\Fonts\\Antonio-Regular.ttf"
+#define FLAG_SPRITE_PATH "Assets\\Sprites\\flag.png"
+#define MINE_SPRITE_PATH "Assets\\Sprites\\mine.png"
 #define DEFAULT " "
 #define CLICKED_COLOR sf::Color{ 180, 180, 255, 255 }
 #define HOVER_COLOR sf::Color{ 120, 255, 120, 255 }
 #define TILE_COLOR sf::Color::Green
-#define BUTTON_FONT "Fonts\\Antonio-Regular.ttf"
+#define BUTTON_FONT "Assets\\Fonts\\Antonio-Regular.ttf"
 #define BUTTON_TEXT_COLOR sf::Color::Black
 #define BUTTON_TEXT_SIZE 50
 #define BUTTON_COLOR sf::Color{200, 200, 255}
@@ -41,7 +41,7 @@
 #define FLAG_SPRITE_POSX 1575
 #define FLAG_SPRITE_POSY 325
 #define FLAG_TEXT_POS sf::Vector2f(1625, 325)
-#define STATUS_FONT_PATH "Fonts\\Mitr-Regular.ttf"
+#define STATUS_FONT_PATH "Assets\\Fonts\\Mitr-Regular.ttf"
 #define STATUS_FONT_SIZE 75
 #define STATUS_TEXT_POS sf::Vector2f(1475, 125)
 #define COMPLETE_STATUS "YOU WIN !!"
