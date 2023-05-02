@@ -3,6 +3,9 @@
  - Minesweeper Game
  - Find all the Tiles which do not have mines.
  
+ ![Gameplay](https://user-images.githubusercontent.com/65897987/235722505-80714358-611b-407d-9b38-cf4cc9f3a131.png)
+
+ 
 ### Features Implemented : 
  - Restart / Quit Functionality.
  - Addition / Removal of Flags and track of Flag Count. (You cannot add more than a certain amount.)
